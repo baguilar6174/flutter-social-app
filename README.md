@@ -21,7 +21,7 @@ git clone https://github.com/baguilar6174/flutter-yesNoChat-app.git
 
 ## Packages used
 
-* `` S
+* `provider: ^6.0.5` State management
 
 ## What I learned
 
