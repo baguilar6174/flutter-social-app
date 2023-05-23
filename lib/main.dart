@@ -13,7 +13,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider(create: (_) => FeedProvider()),
+        ChangeNotifierProvider(
+          create: (_) => FeedProvider()..loadNextPage(),
+          lazy: false,
+        ),
       ],
       child: MaterialApp(
         title: 'Social app',

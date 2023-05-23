@@ -1,1 +1,1 @@
-export 'video_post.dart';
+export 'video_post_entity.dart';
