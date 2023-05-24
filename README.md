@@ -23,6 +23,8 @@ git clone https://github.com/baguilar6174/flutter-yesNoChat-app.git
 
 * `provider: ^6.0.5` State management
 * `intl: ^0.18.1`
+* `animate_do: ^3.0.2` Widgets animations
+* `video_player: ^2.6.1` Video player 
 
 ## What I learned
 
@@ -36,6 +38,14 @@ git clone https://github.com/baguilar6174/flutter-yesNoChat-app.git
 - Video controllers
 
 ## Tik Tok (clone) applicacion
+
+<table>
+  <tr>
+    <td align="center" valign="center"><img src="./media/1.png" width="50%"></td>
+    <td align="center" valign="center"><img src="./media/2.png" width="50%"></td>
+  </tr>
+</table>
+
 
 ## Autor
 

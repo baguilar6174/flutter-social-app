@@ -22,7 +22,7 @@ class CustomIconButton extends StatelessWidget {
           onPressed: () {},
           icon: Icon(icon, color: color, size: 30),
         ),
-        Text(FormatNumbers.readbleNumber(value.toDouble())),
+        if (value > 0) Text(FormatNumbers.readbleNumber(value.toDouble())),
       ],
     );
   }

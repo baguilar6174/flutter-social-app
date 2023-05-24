@@ -7,7 +7,7 @@ class FeedProvider extends ChangeNotifier {
   List<VideoPost> videos = [];
 
   Future<void> loadNextPage() async {
-    await Future.delayed(const Duration(seconds: 2));
+    // await Future.delayed(const Duration(seconds: 2));
     videos.addAll(videoPosts
         .map((video) => LocalVideoModel.fromJson(video).toEntity())
         .toList());
