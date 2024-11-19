@@ -47,9 +47,8 @@ git clone https://github.com/baguilar6174/flutter-yesNoChat-app.git
 </table>
 
 
-## Autor
+## Stay in touch
 
 - Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
 - Medium - [baguilar6174](https://baguilar6174.medium.com/)
-- LinkeIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
-- Email - [bryan.aguilar6174@gmail.com](mailto:bryan.aguilar6174@gmail.com)
+- LinkedIn - [baguilar6174](https://www.linkedin.com/in/baguilar6174)
